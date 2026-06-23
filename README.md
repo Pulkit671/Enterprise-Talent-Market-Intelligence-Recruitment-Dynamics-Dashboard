@@ -33,4 +33,5 @@ Compensation Benchmarking: Enables instant cross-comparison of salary floors and
 ## 🔍 Visual Preview
 Click the image below to interact with the live data filters, search locations, and drill down into salary bands:
 
-[![Talent Market Dashboard Preview](YOUR_IMAGE_FILENAME_OR_LINK_HERE)](https://prod-in-a.online.tableau.com/t/pulkitdehariya8-6fb72123f5/views/EnterpriseTalentMarketIntelligenceRecruitmentDynamicsDashboard/WorkforceAnalytics?:origin=card_share_link&:embed=n)
+[![Talent Market Dashboard Preview](https://prod-in-a.online.tableau.com/t/pulkitdehariya8-6fb72123f5/views/EnterpriseTalentMarketIntelligenceRecruitmentDynamicsDashboard/WorkforceAnalytics?:origin=card_share_link&:embed=n)<img width="1017" height="832" alt="Workforce_Analytics_Dashboard" src="https://github.com/user-attachments/assets/c9bd16a5-a806-49ff-86ef-c7a370b1d6e6" />
+
