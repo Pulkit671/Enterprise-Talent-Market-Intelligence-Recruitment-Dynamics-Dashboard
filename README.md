@@ -25,3 +25,12 @@ Advanced Dual-Axis Layouts: Constructed dummy field architectures (MIN(0)) to ha
 Recruitment Friction Identification: Isolates specific job categories generating top-of-funnel traffic (views) but bottlenecking at conversion (applies)—prompting a need for application form optimization or revised requirements.
 
 Compensation Benchmarking: Enables instant cross-comparison of salary floors and ceilings between direct industry competitors to ensure compensation packages remain attractive to elite talent.
+
+# 📊 Enterprise Talent Market Intelligence Dashboard
+
+[![Click to View Live Interactive Dashboard](https://img.shields.io/badge/Tableau-Live_Dashboard-blue?style=for-the-badge&logo=tableau)](https://prod-in-a.online.tableau.com/t/pulkitdehariya8-6fb72123f5/views/EnterpriseTalentMarketIntelligenceRecruitmentDynamicsDashboard/WorkforceAnalytics?:origin=card_share_link&:embed=n)
+
+## 🔍 Visual Preview
+Click the image below to interact with the live data filters, search locations, and drill down into salary bands:
+
+[![Talent Market Dashboard Preview](YOUR_IMAGE_FILENAME_OR_LINK_HERE)](https://prod-in-a.online.tableau.com/t/pulkitdehariya8-6fb72123f5/views/EnterpriseTalentMarketIntelligenceRecruitmentDynamicsDashboard/WorkforceAnalytics?:origin=card_share_link&:embed=n)
