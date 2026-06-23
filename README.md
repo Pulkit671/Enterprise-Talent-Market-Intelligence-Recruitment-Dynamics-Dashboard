@@ -1,4 +1,5 @@
 📊 Project Title: Enterprise Talent Market Intelligence & Recruitment Dynamics Dashboard
+
 🔹 Project Overview
 This production-grade business intelligence dashboard transforms raw, multi-attribute hiring data into dynamic market insights. Designed with a strict product analytics framework, the application evaluates market competitiveness by cross-referencing salary distributions, company job-posting volumes, and real-time candidate engagement metrics. The visual architecture is structured to help talent operations and executive leaders identify high-friction recruitment areas and optimize compensation banding.
 
