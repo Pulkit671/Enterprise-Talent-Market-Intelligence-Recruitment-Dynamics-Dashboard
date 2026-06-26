@@ -12,8 +12,6 @@ Role Engagement Dynamics (4-Quadrant Scatter Plot): An advanced product analytic
 
 Salary Banding and Budget Runway (Dual-Axis Range Bars): Re-engineered using a custom vertical layout container to draw distinct, categorical minimum-to-maximum salary boundaries per role and company, stripping out standard time-series noise to show precise compensation spreads.
 
-Market Capture (Donut Chart): A clean sourcing-mix breakdown highlighting the distribution of postings across primary tech platforms and job domains.
-
 ⚡ Technical Implementation & Interactivity
 Cross-Worksheet Filter Optimization: Implemented global dashboard actions via Apply to Worksheets logic, forcing all independent data models, KPI metrics, and range charts to recalculate instantly when a user inputs variables.
 
