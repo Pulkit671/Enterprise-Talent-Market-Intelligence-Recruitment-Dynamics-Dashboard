@@ -28,7 +28,7 @@ Compensation Benchmarking: Enables instant cross-comparison of salary floors and
 
 # 📊 Enterprise Talent Market Intelligence Dashboard
 
-[![Click to View Live Interactive Dashboard](https://img.shields.io/badge/Tableau-Live_Dashboard-blue?style=for-the-badge&logo=tableau)](https://prod-in-a.online.tableau.com/t/pulkitdehariya8-6fb72123f5/views/EnterpriseTalentMarketIntelligenceRecruitmentDynamicsDashboard/WorkforceAnalytics?:origin=card_share_link&:embed=n)
+[Click to View Live Interactive Dashboard](https://img.shields.io/badge/Tableau-Live_Dashboard-blue?style=for-the-badge&logo=tableau)](https://prod-in-a.online.tableau.com/t/pulkitdehariya8-6fb72123f5/views/EnterpriseTalentMarketIntelligenceRecruitmentDynamicsDashboard/WorkforceAnalytics?:origin=card_share_link&:embed=n)
 
 ## 🔍 Visual Preview
 Click the image below to interact with the live data filters, search locations, and drill down into salary bands:
